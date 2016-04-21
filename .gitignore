@@ -1,0 +1,9 @@
+*.swp 
+*.swo 
+*.swn 
+*.sqlite3 
+*.DS_Store 
+static_media/
+media/
+*.pyc
+local.py
